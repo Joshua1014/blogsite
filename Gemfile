@@ -68,6 +68,7 @@ end
 
 gem 'rails_12factor', group: :production
 
-gem 'net-pop', '~> 0.1.2'
 gem 'net-protocol', '~> 0.2.0'
+
+gem 'net-pop', github: 'ruby/net-pop'
 
