@@ -18,4 +18,4 @@ production:
   <<: *default
   database: blogsite_db
   username: postgres
-  password: Jindalee1!
+  password: Plan0ffice*12
