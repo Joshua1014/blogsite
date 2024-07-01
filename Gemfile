@@ -67,3 +67,6 @@ group :test do
 end
 
 gem 'rails_12factor', group: :production
+
+gem 'net-protocol', '~> 0.1.3'
+
